@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="agraph-java-client-2.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/agraph-java-client-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/gson-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.3-jdk13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/joda-time-2.9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

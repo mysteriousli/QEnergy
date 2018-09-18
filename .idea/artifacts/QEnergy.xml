@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QEnergy">
+    <output-path>$PROJECT_DIR$/out/artifacts/QEnergy</output-path>
+    <root id="archive" name="QEnergy.war">
+      <element id="javaee-facet-resources" facet="QErengy/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="QErengy" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="agraph-java-client-2.0.3" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
